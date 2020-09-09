@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: iryna.klimko.jtaj.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.614 s - in iryna.klimko.jtaj.AppTest
